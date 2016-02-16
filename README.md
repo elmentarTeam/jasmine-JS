@@ -1,2 +1,2 @@
 # jasmine-JS
-simpe examles of jasmine JS unitests
+this test checks, if your name is Nick(true) or not(false)
